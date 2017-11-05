@@ -1,0 +1,92 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \CR \space \exclam \quotedbl \numbersign \quotesingle 
+	\parenleft \parenright \asterisk \plus \comma \hyphen \period \slash \colon 
+	\semicolon \less \equal \greater \question \bracketleft \backslash 
+	\bracketright \asciicircum \underscore \braceleft \bar \braceright \asciitilde 
+	\anusvara \visarga \sinA \sinAa \sinAe \sinAae \sinI \sinIi \sinU \sinUu 
+	\sinvocalicR \sinvocalicRr \sinvocalicL \sinvocalicLL \sinE \sinEe \sinAi \sinO 
+	\sinOo \sinAu \sinKa \sinKha \sinGa \sinGha \sinNga \sinNnga \sinCa \sinCha \sinJa 
+	\sinJha \sinNya \sinJnya \sinNdja \sinTta \sinTtha \sinDda \sinDdha \sinNna 
+	\sinNndda \sinTa \sinTha \sinDa \sinDha \sinNa \sinNda \sinPa \sinPha \sinBa 
+	\sinBha \sinMa \sinMba \sinYa \sinRa \sinLa \sinVa \sinSha \sinSsa \sinSa \sinHa 
+	\sinLla \sinFa \sinVirama \sinVirama.alt \sinMatraAa \sinMatraAe \sinMatraAae 
+	\sinMatraI \sinMatraIi \sinMatraU \sinMatraU.alt5 \sinMatraUu 
+	\sinMatraUu.alt5 \sinMatraR \sinMatraRr \sinMatraE \sinMatraEe \sinMatraAi 
+	\sinMatraO \sinMatraOo \sinMatraAu \sinMatraL \sinMatraLl \sinkundaliya \zwnj 
+	\zwj \dottedcircle \sinY.post.virama \sinYI.post \sinYIi.post \sinYU.post 
+	\sinYUu.post \sinYa.post.reph \sinYU.post.reph \sinYUu.post.reph \sinRakar 
+	\sinK.virama \sinKAa \sinKAa.virama \sinKI \sinKIi \sinKU \sinKUu \sinKRa 
+	\sinKRI \sinKRIi \sinKR.virama \sinKa.reph \sinKU.reph \sinKUu.reph 
+	\sinKh.virama \sinKhI \sinKhIi \sinKhU \sinKhUu \sinKhRa \sinKhRI \sinKhRIi 
+	\sinKhR.virama \sinKha.reph \sinKhU.reph \sinKhUu.reph \sinG.virama \sinGAa 
+	\sinGAa.virama \sinGI \sinGIi \sinGU \sinGUu \sinGRa \sinGRI \sinGRIi 
+	\sinGR.virama \sinGa.reph \sinGU.reph \sinGUu.reph \sinGh.virama \sinGhI 
+	\sinGhIi \sinGhU \sinGhUu \sinGhRa \sinGhRI \sinGhRIi \sinGhR.virama 
+	\sinGha.reph \sinGhU.reph \sinGhUu.reph \sinNg.virama \sinNgI \sinNgIi \sinNgU 
+	\sinNgUu \sinNga.reph \sinNng.virama \sinNngAa \sinNngAa.virama \sinNngI 
+	\sinNngIi \sinNngU \sinNngUu \sinNnga.reph \sinC.virama \sinCI \sinCIi \sinCU 
+	\sinCUu \sinCRa \sinCRI \sinCRIi \sinCR.virama \sinCa.reph \sinCU.reph 
+	\sinCUu.reph \sinCh.virama \sinChI \sinChIi \sinChU \sinChUu \sinChRa \sinChRI 
+	\sinChRIi \sinChR.virama \sinCha.reph \sinChU.reph \sinChUu.reph \sinJ.virama 
+	\sinJI \sinJIi \sinJU \sinJUu \sinJRa \sinJRI \sinJRIi \sinJR.virama \sinJa.reph 
+	\sinJU.reph \sinJUu.reph \sinJh.virama \sinJhI \sinJhIi \sinJhU \sinJhUu 
+	\sinJhRa \sinJhRI \sinJhRIi \sinJhR.virama \sinJha.reph \sinJhU.reph 
+	\sinJhUu.reph \sinNy.virama \sinNyI \sinNyIi \sinNyU \sinNyUu \sinNya.reph 
+	\sinJny.virama \sinJnyI \sinJnyIi \sinJnyU \sinJnyUu \sinJnya.reph 
+	\sinNdj.virama \sinNdjI \sinNdjIi \sinNdjU \sinNdjUu \sinNdja.reph 
+	\sinTt.virama \sinTtI \sinTtIi \sinTtU \sinTtUu \sinTtRa \sinTtRI \sinTtRIi 
+	\sinTtR.virama \sinTta.reph \sinTtU.reph \sinTtUu.reph \sinTth.virama 
+	\sinTthI \sinTthIi \sinTthU \sinTthUu \sinTthRa \sinTthRI \sinTthRIi 
+	\sinTthR.virama \sinTtha.reph \sinTthU.reph \sinTthUu.reph \sinDd.virama 
+	\sinDdI \sinDdIi \sinDdU \sinDdUu \sinDdRa \sinDdRI \sinDdRIi \sinDdR.virama 
+	\sinDda.reph \sinDdU.reph \sinDdUu.reph \sinDdh.virama \sinDdhI \sinDdhIi 
+	\sinDdhU \sinDdhUu \sinDdhRa \sinDdhRI \sinDdhRIi \sinDdhR.virama 
+	\sinDdha.reph \sinDdhU.reph \sinDdhUu.reph \sinNn.virama \sinNnAa 
+	\sinNnAa.virama \sinNnI \sinNnIi \sinNnU \sinNnUu \sinNna.reph \sinNndd.virama 
+	\sinNnddI \sinNnddIi \sinNnddU \sinNnddUu \sinNndda.reph \sinT.virama \sinTAa 
+	\sinTAa.virama \sinTI \sinTIi \sinTU \sinTUu \sinTRa \sinTRI \sinTRIi 
+	\sinTR.virama \sinTa.reph \sinTU.reph \sinTUu.reph \sinTh.virama \sinThI 
+	\sinThIi \sinThU \sinThUu \sinThRa \sinThRI \sinThRIi \sinThR.virama 
+	\sinTha.reph \sinThU.reph \sinThUu.reph \sinD.virama \sinDI \sinDIi \sinDU 
+	\sinDUu \sinDRa \sinDRI \sinDRIi \sinDR.virama \sinDa.reph \sinDU.reph 
+	\sinDUu.reph \sinDh.virama \sinDhI \sinDhIi \sinDhU \sinDhUu \sinDhRa \sinDhRI 
+	\sinDhRIi \sinDhR.virama \sinDha.reph \sinDhU.reph \sinDhUu.reph \sinN.virama 
+	\sinNAa \sinNAa.virama \sinNI \sinNIi \sinNU \sinNUu \sinNa.reph \sinNd.virama 
+	\sinNdI \sinNdIi \sinNdU \sinNdUu \sinNda.reph \sinP.virama \sinPI \sinPIi 
+	\sinPU \sinPUu \sinPRa \sinPRI \sinPRIi \sinPR.virama \sinPa.reph \sinPU.reph 
+	\sinPUu.reph \sinPh.virama \sinPhI \sinPhIi \sinPhU \sinPhUu \sinPhRa \sinPhRI 
+	\sinPhRIi \sinPhR.virama \sinPha.reph \sinPhU.reph \sinPhUu.reph \sinB.virama 
+	\sinBI \sinBIi \sinBU \sinBUu \sinBRa \sinBRI \sinBRIi \sinBR.virama \sinBa.reph 
+	\sinBU.reph \sinBUu.reph \sinBh.virama \sinBhAa \sinBhAa.virama \sinBhI 
+	\sinBhIi \sinBhU \sinBhUu \sinBhRa \sinBhRI \sinBhRIi \sinBhR.virama 
+	\sinBha.reph \sinBhU.reph \sinBhUu.reph \sinM.virama \sinMI \sinMIi \sinMU 
+	\sinMUu \sinMa.reph \sinMb.virama \sinMbI \sinMbIi \sinMbU \sinMbUu 
+	\sinMba.reph \sinY.virama \sinYI \sinYIi \sinYU \sinYUu \sinYa.reph \sinYU.reph 
+	\sinYUu.reph \sinR.virama \sinRAe \sinRAae \sinRI \sinRIi \sinRU \sinRUu 
+	\sinL.virama \sinLI \sinLIi \sinLU \sinLUu \sinV.virama \sinVI \sinVIi \sinVU 
+	\sinVUu \sinVRa \sinVRI \sinVRIi \sinVR.virama \sinVa.reph \sinVU.reph 
+	\sinVUu.reph \sinSh.virama \sinShI \sinShIi \sinShU \sinShUu \sinShRa \sinShRI 
+	\sinShRIi \sinShR.virama \sinSha.reph \sinShU.reph \sinShUu.reph 
+	\sinSs.virama \sinSsI \sinSsIi \sinSsU \sinSsUu \sinSsRa \sinSsRI \sinSsRIi 
+	\sinSsR.virama \sinSsa.reph \sinSsU.reph \sinSsUu.reph \sinS.virama \sinSI 
+	\sinSIi \sinSU \sinSUu \sinSRa \sinSRI \sinSRIi \sinSR.virama \sinSa.reph 
+	\sinSU.reph \sinSUu.reph \sinH.virama \sinHAa \sinHAa.virama \sinHI \sinHIi 
+	\sinHU \sinHUu \sinHRa \sinHRI \sinHRIi \sinHR.virama \sinHa.reph \sinHU.reph 
+	\sinHUu.reph \sinLl.virama \sinLlI \sinLlIi \sinLlU \sinLlUu \sinF.virama 
+	\sinFAa \sinFAa.virama \sinFI \sinFIi \sinFU \sinFUu \sinFRa \sinFRI \sinFRIi 
+	\sinFR.virama \sinFa.reph \sinFU.reph \sinFUu.reph \one \eight \six \two \zero 
+	\three \four \five \seven \nine \LithOne \LithTwo \LithThree \LithNine \LithFour 
+	\LithFive \LithSix \LithSeven \LithEight \LithZero \ArchaicOne \ArchaicTwo 
+	\ArchaicThree \ArchaicFour \ArchaicFive \ArchaicSix \ArchaicSeven 
+	\ArchaicEight \ArchaicNine \ArchaicTen \ArchaicTwenty \ArchaicThirty 
+	\ArchaicForty \ArchaicFifty \ArchaicSixty \ArchaicSeventy \ArchaicEighty 
+	\ArchaicNinety \ArchaicHundred \ArchaicThousand ];
+@GDEF_Ligature = [\sinMatraAa.virama \sinYa.post \sinReph ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+
