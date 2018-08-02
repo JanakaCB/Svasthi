@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinvocalicLL" format="1">
+  <advance width="1336" height="1336"/>
+  <unicode hex="0D90"/>
+  <outline>
+    <component base="sinvocalicL" xOffset="0.000242593"/>
+    <component base="sinMatraL" xOffset="907"/>
+  </outline>
+</glyph>

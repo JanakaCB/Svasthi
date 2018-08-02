@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMatraAe" format="1">
+  <advance width="616" height="616"/>
+  <unicode hex="0DD0"/>
+  <outline>
+    <contour>
+      <point x="564" y="266" type="curve" smooth="yes"/>
+      <point x="579" y="266"/>
+      <point x="586.586" y="246.97"/>
+      <point x="580" y="231" type="curve" smooth="yes"/>
+      <point x="540" y="134"/>
+      <point x="442" y="0"/>
+      <point x="260" y="0" type="curve" smooth="yes"/>
+      <point x="144.522" y="0"/>
+      <point x="69.6667" y="88"/>
+      <point x="35" y="186" type="curve" smooth="yes"/>
+      <point x="29.4719" y="201.628"/>
+      <point x="38.2695" y="222"/>
+      <point x="57" y="222" type="curve" smooth="yes"/>
+      <point x="75.9619" y="222"/>
+      <point x="79.5945" y="205.823"/>
+      <point x="85" y="192" type="curve" smooth="yes"/>
+      <point x="113.549" y="118.993"/>
+      <point x="174.465" y="47"/>
+      <point x="260" y="47" type="curve" smooth="yes"/>
+      <point x="393" y="47"/>
+      <point x="478" y="132"/>
+      <point x="535" y="244" type="curve" smooth="yes"/>
+      <point x="542.901" y="259.526"/>
+      <point x="553.92" y="266"/>
+    </contour>
+  </outline>
+</glyph>

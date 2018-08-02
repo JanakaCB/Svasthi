@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNd.virama" format="1">
+  <advance width="741" height="741"/>
+  <outline>
+    <contour>
+      <point x="478" y="937" type="curve" smooth="yes"/>
+      <point x="478" y="860.333"/>
+      <point x="478" y="783.667"/>
+      <point x="478" y="707" type="curve" smooth="yes"/>
+      <point x="478" y="654"/>
+      <point x="478" y="570"/>
+      <point x="479" y="493" type="curve"/>
+      <point x="524" y="489" type="line"/>
+      <point x="524" y="664" type="line" smooth="yes"/>
+      <point x="524" y="753" type="line"/>
+      <point x="545" y="738"/>
+      <point x="571" y="726"/>
+      <point x="606" y="726" type="curve" smooth="yes"/>
+      <point x="678" y="726"/>
+      <point x="731" y="789"/>
+      <point x="731" y="867" type="curve" smooth="yes"/>
+      <point x="731" y="930"/>
+      <point x="687" y="958"/>
+      <point x="651" y="958" type="curve" smooth="yes"/>
+      <point x="614" y="958"/>
+      <point x="594" y="934"/>
+      <point x="553" y="934" type="curve" smooth="yes"/>
+      <point x="543" y="934"/>
+      <point x="535" y="936"/>
+      <point x="527" y="942" type="curve"/>
+      <point x="527" y="959"/>
+      <point x="519" y="972"/>
+      <point x="503" y="972" type="curve" smooth="yes"/>
+      <point x="483" y="972"/>
+      <point x="478" y="956"/>
+    </contour>
+    <contour>
+      <point x="637" y="910" type="curve" smooth="yes"/>
+      <point x="659" y="910"/>
+      <point x="680" y="899"/>
+      <point x="680" y="860" type="curve" smooth="yes"/>
+      <point x="680" y="810"/>
+      <point x="650" y="772"/>
+      <point x="600" y="772" type="curve" smooth="yes"/>
+      <point x="565" y="772"/>
+      <point x="540" y="788"/>
+      <point x="525" y="803" type="curve"/>
+      <point x="525" y="835"/>
+      <point x="525" y="867"/>
+      <point x="526" y="898" type="curve"/>
+      <point x="533" y="894"/>
+      <point x="543" y="890"/>
+      <point x="557" y="890" type="curve" smooth="yes"/>
+      <point x="589" y="890"/>
+      <point x="605" y="910"/>
+    </contour>
+    <component base="sinNda"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwj" format="1">
+  <advance width="348" height="348"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="200" y="640" type="line"/>
+      <point x="321" y="759" type="line"/>
+      <point x="295" y="784" type="line"/>
+      <point x="174" y="663" type="line"/>
+      <point x="53" y="784" type="line"/>
+      <point x="27" y="759" type="line"/>
+      <point x="148" y="640" type="line"/>
+      <point x="27" y="520" type="line"/>
+      <point x="53" y="493" type="line"/>
+      <point x="154" y="596" type="line"/>
+      <point x="154" y="10" type="line"/>
+      <point x="194" y="10" type="line"/>
+      <point x="194" y="596" type="line"/>
+      <point x="295" y="493" type="line"/>
+      <point x="321" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

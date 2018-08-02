@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDUu.reph" format="1">
+  <advance width="547" height="547"/>
+  <outline>
+    <component base="sinReph" xOffset="2.45043e-005"/>
+    <component base="sinDUu" xOffset="2.45043e-005"/>
+  </outline>
+</glyph>

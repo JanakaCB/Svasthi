@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinKR.virama" format="1">
+  <advance width="919" height="919"/>
+  <outline>
+    <contour>
+      <point x="639" y="937" type="curve" smooth="yes"/>
+      <point x="639" y="956"/>
+      <point x="644" y="972"/>
+      <point x="664" y="972" type="curve" smooth="yes"/>
+      <point x="680" y="972"/>
+      <point x="688" y="959"/>
+      <point x="688" y="942" type="curve"/>
+      <point x="696" y="936"/>
+      <point x="704" y="934"/>
+      <point x="714" y="934" type="curve" smooth="yes"/>
+      <point x="755" y="934"/>
+      <point x="775" y="958"/>
+      <point x="812" y="958" type="curve" smooth="yes"/>
+      <point x="848" y="958"/>
+      <point x="892" y="930"/>
+      <point x="892" y="867" type="curve" smooth="yes"/>
+      <point x="892" y="789"/>
+      <point x="839" y="726"/>
+      <point x="767" y="726" type="curve" smooth="yes"/>
+      <point x="732" y="726"/>
+      <point x="706" y="738"/>
+      <point x="685" y="753" type="curve"/>
+      <point x="685" y="664" type="line" smooth="yes"/>
+      <point x="685" y="479" type="line"/>
+      <point x="640" y="483" type="line"/>
+      <point x="639" y="571.907"/>
+      <point x="639" y="645.804"/>
+      <point x="639" y="707" type="curve" smooth="yes"/>
+      <point x="639" y="783.667"/>
+      <point x="639" y="860.333"/>
+    </contour>
+    <contour>
+      <point x="798" y="910" type="curve" smooth="yes"/>
+      <point x="766" y="910"/>
+      <point x="750" y="890"/>
+      <point x="718" y="890" type="curve" smooth="yes"/>
+      <point x="704" y="890"/>
+      <point x="694" y="894"/>
+      <point x="687" y="898" type="curve"/>
+      <point x="686" y="867"/>
+      <point x="686" y="835"/>
+      <point x="686" y="803" type="curve"/>
+      <point x="701" y="788"/>
+      <point x="726" y="772"/>
+      <point x="761" y="772" type="curve" smooth="yes"/>
+      <point x="811" y="772"/>
+      <point x="841" y="810"/>
+      <point x="841" y="860" type="curve" smooth="yes"/>
+      <point x="841" y="899"/>
+      <point x="820" y="910"/>
+    </contour>
+    <contour>
+      <point x="803" y="-174" type="curve" smooth="yes"/>
+      <point x="814.969" y="-113"/>
+      <point x="816" y="-64"/>
+      <point x="812" y="-25" type="curve" smooth="yes"/>
+      <point x="809.751" y="-3.07422"/>
+      <point x="798.688" y="3.86035"/>
+      <point x="783" y="0" type="curve" smooth="yes"/>
+      <point x="770.005" y="-3.19824"/>
+      <point x="764.761" y="-16.8477"/>
+      <point x="767" y="-37" type="curve" smooth="yes"/>
+      <point x="770" y="-64"/>
+      <point x="772.842" y="-111.643"/>
+      <point x="757" y="-176" type="curve" smooth="yes"/>
+      <point x="725" y="-306"/>
+      <point x="601.966" y="-386.4"/>
+      <point x="464.68" y="-386.4" type="curve" smooth="yes"/>
+      <point x="449" y="-386.4"/>
+      <point x="431" y="-386"/>
+      <point x="412" y="-383" type="curve" smooth="yes"/>
+      <point x="393" y="-380"/>
+      <point x="381.235" y="-383.98"/>
+      <point x="378" y="-398" type="curve" smooth="yes"/>
+      <point x="375" y="-411"/>
+      <point x="380.19" y="-425.104"/>
+      <point x="401" y="-430" type="curve" smooth="yes"/>
+      <point x="418" y="-434"/>
+      <point x="444" y="-434.08"/>
+      <point x="462.04" y="-433.92" type="curve" smooth="yes"/>
+      <point x="627" y="-432.452"/>
+      <point x="771.999" y="-332"/>
+    </contour>
+    <component base="sinKa"/>
+  </outline>
+</glyph>

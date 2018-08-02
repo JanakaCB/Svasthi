@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinTthI" format="1">
+  <advance width="754" height="754"/>
+  <outline>
+    <contour>
+      <point x="337" y="717" type="curve" smooth="yes"/>
+      <point x="327" y="729"/>
+      <point x="307" y="725"/>
+      <point x="299" y="708" type="curve" smooth="yes"/>
+      <point x="282.741" y="673.45"/>
+      <point x="250" y="667.565"/>
+      <point x="231" y="675" type="curve" smooth="yes"/>
+      <point x="194.551" y="689.263"/>
+      <point x="178.56" y="705.217"/>
+      <point x="178.56" y="754.721" type="curve" smooth="yes"/>
+      <point x="178.56" y="869.24"/>
+      <point x="292.905" y="918.736"/>
+      <point x="414.2" y="924.68" type="curve" smooth="yes"/>
+      <point x="499.056" y="928.837"/>
+      <point x="645.479" y="849.624"/>
+      <point x="641.8" y="754.64" type="curve" smooth="yes"/>
+      <point x="640.113" y="711.101"/>
+      <point x="637.222" y="686.7"/>
+      <point x="601" y="671" type="curve" smooth="yes"/>
+      <point x="565.707" y="655.702"/>
+      <point x="538.807" y="699.635"/>
+      <point x="534" y="703" type="curve" smooth="yes"/>
+      <point x="524" y="710"/>
+      <point x="510" y="710"/>
+      <point x="502" y="701" type="curve" smooth="yes"/>
+      <point x="494.682" y="692.768"/>
+      <point x="496" y="675.384"/>
+      <point x="504" y="668" type="curve" smooth="yes"/>
+      <point x="511.149" y="661.401"/>
+      <point x="556.838" y="608.556"/>
+      <point x="626" y="635" type="curve" smooth="yes"/>
+      <point x="674.592" y="653.579"/>
+      <point x="687.123" y="689.729"/>
+      <point x="688" y="752" type="curve" smooth="yes"/>
+      <point x="689.638" y="868.265"/>
+      <point x="563.904" y="972.2"/>
+      <point x="414.2" y="972.2" type="curve" smooth="yes"/>
+      <point x="283.52" y="972.2"/>
+      <point x="135" y="908.84"/>
+      <point x="135" y="760" type="curve" smooth="yes"/>
+      <point x="135" y="678.549"/>
+      <point x="173.342" y="646.901"/>
+      <point x="222" y="633" type="curve" smooth="yes"/>
+      <point x="256" y="623.286"/>
+      <point x="302.223" y="634.427"/>
+      <point x="327" y="674" type="curve" smooth="yes"/>
+      <point x="337.645" y="691"/>
+      <point x="343.667" y="709"/>
+    </contour>
+    <component base="sinTtha"/>
+  </outline>
+</glyph>

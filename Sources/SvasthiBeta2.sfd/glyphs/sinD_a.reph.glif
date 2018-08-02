@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDa.reph" format="1">
+  <advance width="582" height="582"/>
+  <outline>
+    <component base="sinReph"/>
+    <component base="sinDa" xOffset="19.9996"/>
+  </outline>
+</glyph>

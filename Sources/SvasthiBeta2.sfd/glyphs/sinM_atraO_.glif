@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMatraO" format="1">
+  <advance width="992" height="992"/>
+  <unicode hex="0DDC"/>
+  <outline>
+    <component base="sinMatraAa" xOffset="669"/>
+    <component base="sinMatraE"/>
+  </outline>
+</glyph>

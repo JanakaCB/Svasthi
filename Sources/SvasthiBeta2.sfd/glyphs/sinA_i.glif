@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinAi" format="1">
+  <advance width="1128" height="1128"/>
+  <unicode hex="0D93"/>
+  <outline>
+    <component base="sinE" xOffset="441"/>
+    <component base="sinMatraE" xOffset="1"/>
+  </outline>
+</glyph>

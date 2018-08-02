@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinGI" format="1">
+  <advance width="866" height="866"/>
+  <outline>
+    <contour>
+      <point x="622.04" y="502.801" type="curve" smooth="yes"/>
+      <point x="622.04" y="519.6"/>
+      <point x="611.98" y="525.154"/>
+      <point x="596" y="528" type="curve" smooth="yes"/>
+      <point x="450" y="554"/>
+      <point x="320.716" y="616.415"/>
+      <point x="319" y="756" type="curve" smooth="yes"/>
+      <point x="317.715" y="860.071"/>
+      <point x="397.681" y="924.479"/>
+      <point x="497" y="924.479" type="curve" smooth="yes"/>
+      <point x="599.667" y="924.479"/>
+      <point x="672.8" y="865.944"/>
+      <point x="672.8" y="789" type="curve" smooth="yes"/>
+      <point x="672.8" y="711.377"/>
+      <point x="625.022" y="679.88"/>
+      <point x="586.8" y="679.88" type="curve" smooth="yes"/>
+      <point x="566.999" y="679.88"/>
+      <point x="548.518" y="683.837"/>
+      <point x="520.8" y="702.319" type="curve" smooth="yes"/>
+      <point x="516.84" y="704.96"/>
+      <point x="512.879" y="707.6"/>
+      <point x="506.279" y="707.6" type="curve" smooth="yes"/>
+      <point x="495.72" y="707.6"/>
+      <point x="487.8" y="701"/>
+      <point x="487.8" y="690.439" type="curve" smooth="yes"/>
+      <point x="487.8" y="683.84"/>
+      <point x="490.363" y="677.183"/>
+      <point x="494.399" y="671.96" type="curve" smooth="yes"/>
+      <point x="516.84" y="642.92"/>
+      <point x="552.479" y="635"/>
+      <point x="586.8" y="635" type="curve" smooth="yes"/>
+      <point x="644.806" y="635"/>
+      <point x="719" y="674.723"/>
+      <point x="719" y="789" type="curve" smooth="yes"/>
+      <point x="719" y="897.702"/>
+      <point x="637.138" y="972"/>
+      <point x="497" y="972" type="curve" smooth="yes"/>
+      <point x="382.981" y="972"/>
+      <point x="274.146" y="895.386"/>
+      <point x="275.439" y="756" type="curve" smooth="yes"/>
+      <point x="277.029" y="584.111"/>
+      <point x="419.981" y="513.113"/>
+      <point x="593" y="483" type="curve" smooth="yes"/>
+      <point x="613.81" y="479.392"/>
+      <point x="622.04" y="492.24"/>
+    </contour>
+    <component base="sinGa"/>
+  </outline>
+</glyph>

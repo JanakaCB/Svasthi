@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNa.reph" format="1">
+  <advance width="882" height="882"/>
+  <outline>
+    <component base="sinReph" xOffset="167.94"/>
+    <component base="sinNa" xOffset="0.000715077"/>
+  </outline>
+</glyph>

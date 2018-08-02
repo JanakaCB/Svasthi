@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJU.reph" format="1">
+  <advance width="686" height="686"/>
+  <outline>
+    <contour>
+      <point x="618.52" y="-431.72" type="line" smooth="yes"/>
+      <point x="642.28" y="-431.72"/>
+      <point x="659.44" y="-419.84"/>
+      <point x="659.44" y="-397.4" type="curve" smooth="yes"/>
+      <point x="659.44" y="154.84" type="line"/>
+      <point x="611.92" y="154.84" type="line"/>
+      <point x="611.92" y="-352.52" type="line" smooth="yes"/>
+      <point x="611.92" y="-373.64"/>
+      <point x="606.64" y="-384.2"/>
+      <point x="588.16" y="-384.2" type="curve" smooth="yes"/>
+      <point x="308.32" y="-384.2" type="line" smooth="yes"/>
+      <point x="219.366" y="-384.2"/>
+      <point x="176.522" y="-347.861"/>
+      <point x="168" y="-274" type="curve" smooth="yes"/>
+      <point x="159" y="-203.857"/>
+      <point x="179" y="-141.808"/>
+      <point x="216.76" y="-68.6797" type="curve" smooth="yes"/>
+      <point x="224.254" y="-52.5402"/>
+      <point x="212.296" y="-34"/>
+      <point x="199" y="-34" type="curve" smooth="yes"/>
+      <point x="190.256" y="-34"/>
+      <point x="179.558" y="-38.8048"/>
+      <point x="174.52" y="-48.8799" type="curve" smooth="yes"/>
+      <point x="134.223" y="-121.991"/>
+      <point x="112" y="-202.323"/>
+      <point x="120.479" y="-274" type="curve" smooth="yes"/>
+      <point x="130.381" y="-366.247"/>
+      <point x="187.747" y="-431.72"/>
+      <point x="308.32" y="-431.72" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinJa.reph"/>
+  </outline>
+</glyph>

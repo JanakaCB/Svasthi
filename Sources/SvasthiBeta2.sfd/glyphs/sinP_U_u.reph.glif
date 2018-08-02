@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinPUu.reph" format="1">
+  <advance width="676" height="676"/>
+  <outline>
+    <contour>
+      <point x="435.32" y="714.32" type="curve" smooth="yes"/>
+      <point x="435.32" y="780.32"/>
+      <point x="391.76" y="829.16"/>
+      <point x="323.12" y="829.16" type="curve" smooth="yes"/>
+      <point x="271.641" y="829.16"/>
+      <point x="233.36" y="800.12"/>
+      <point x="233.36" y="755.24" type="curve" smooth="yes"/>
+      <point x="233.36" y="726.2"/>
+      <point x="253.16" y="705.08"/>
+      <point x="280.88" y="705.08" type="curve" smooth="yes"/>
+      <point x="307.28" y="705.08"/>
+      <point x="319.16" y="724.88"/>
+      <point x="319.16" y="743.36" type="curve" smooth="yes"/>
+      <point x="319.16" y="755.24"/>
+      <point x="313.88" y="764.48"/>
+      <point x="305.96" y="771.08" type="curve"/>
+      <point x="312.561" y="775.04"/>
+      <point x="321.8" y="777.68"/>
+      <point x="337.641" y="777.68" type="curve" smooth="yes"/>
+      <point x="366.681" y="777.68"/>
+      <point x="387.8" y="748.64"/>
+      <point x="387.8" y="714.32" type="curve" smooth="yes"/>
+      <point x="387.8" y="662.84"/>
+      <point x="333.681" y="628.52"/>
+      <point x="280.88" y="628.52" type="curve" smooth="yes"/>
+      <point x="209.601" y="628.52"/>
+      <point x="151.521" y="673.4"/>
+      <point x="151.521" y="763.16" type="curve" smooth="yes"/>
+      <point x="151.521" y="862.16"/>
+      <point x="233.36" y="922.88"/>
+      <point x="342.92" y="922.88" type="curve" smooth="yes"/>
+      <point x="451.16" y="922.88"/>
+      <point x="535.641" y="842.36"/>
+      <point x="535.641" y="730.16" type="curve" smooth="yes"/>
+      <point x="535.641" y="699.8"/>
+      <point x="530.36" y="665.48"/>
+      <point x="517.16" y="628.52" type="curve" smooth="yes"/>
+      <point x="515.84" y="624.56"/>
+      <point x="515.84" y="620.6"/>
+      <point x="515.84" y="617.96" type="curve" smooth="yes"/>
+      <point x="515.84" y="603.44"/>
+      <point x="527.72" y="595.52"/>
+      <point x="539.601" y="595.52" type="curve" smooth="yes"/>
+      <point x="548.84" y="595.52"/>
+      <point x="558.08" y="599.48"/>
+      <point x="560.72" y="610.04" type="curve" smooth="yes"/>
+      <point x="576.561" y="654.92"/>
+      <point x="583.16" y="693.2"/>
+      <point x="583.16" y="730.16" type="curve" smooth="yes"/>
+      <point x="583.16" y="875.36"/>
+      <point x="474.92" y="970.4"/>
+      <point x="342.92" y="970.4" type="curve" smooth="yes"/>
+      <point x="200.36" y="970.4"/>
+      <point x="104" y="885.92"/>
+      <point x="104" y="763.16" type="curve" smooth="yes"/>
+      <point x="104" y="641.72"/>
+      <point x="184.521" y="581"/>
+      <point x="280.88" y="581" type="curve" smooth="yes"/>
+      <point x="356.12" y="581"/>
+      <point x="435.32" y="629.84"/>
+    </contour>
+    <component base="sinPUu"/>
+  </outline>
+</glyph>

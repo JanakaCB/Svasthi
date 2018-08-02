@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinYIi.post" format="1">
+  <advance width="603" height="603"/>
+  <outline>
+    <contour>
+      <point x="355" y="495" type="curve" smooth="yes"/>
+      <point x="305" y="602"/>
+      <point x="59" y="591"/>
+      <point x="68" y="776" type="curve" smooth="yes"/>
+      <point x="75" y="915"/>
+      <point x="186" y="972"/>
+      <point x="307" y="972" type="curve" smooth="yes"/>
+      <point x="428" y="972"/>
+      <point x="522" y="918"/>
+      <point x="523" y="790" type="curve" smooth="yes"/>
+      <point x="524" y="673"/>
+      <point x="428" y="624"/>
+      <point x="354" y="624" type="curve" smooth="yes"/>
+      <point x="289" y="624"/>
+      <point x="238" y="654"/>
+      <point x="238" y="727" type="curve" smooth="yes"/>
+      <point x="238" y="776"/>
+      <point x="278" y="822"/>
+      <point x="336" y="822" type="curve" smooth="yes"/>
+      <point x="397" y="822"/>
+      <point x="435" y="776"/>
+      <point x="435" y="728" type="curve" smooth="yes"/>
+      <point x="435" y="713"/>
+      <point x="426" y="687"/>
+      <point x="426" y="687" type="curve"/>
+      <point x="426" y="687"/>
+      <point x="478" y="718"/>
+      <point x="478" y="784" type="curve" smooth="yes"/>
+      <point x="478" y="872"/>
+      <point x="399" y="924"/>
+      <point x="307" y="924" type="curve" smooth="yes"/>
+      <point x="213" y="924"/>
+      <point x="119" y="892"/>
+      <point x="116" y="776" type="curve" smooth="yes"/>
+      <point x="111" y="613"/>
+      <point x="343" y="643"/>
+      <point x="399" y="521" type="curve" smooth="yes"/>
+      <point x="408" y="501"/>
+      <point x="374" y="455"/>
+    </contour>
+    <contour>
+      <point x="285" y="724" type="curve" smooth="yes"/>
+      <point x="285" y="692"/>
+      <point x="306" y="673"/>
+      <point x="336" y="673" type="curve" smooth="yes"/>
+      <point x="366" y="673"/>
+      <point x="390" y="691"/>
+      <point x="390" y="724" type="curve" smooth="yes"/>
+      <point x="390" y="754"/>
+      <point x="369" y="776"/>
+      <point x="336" y="776" type="curve" smooth="yes"/>
+      <point x="306" y="776"/>
+      <point x="285" y="754"/>
+    </contour>
+    <component base="sinYa.post"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNU" format="1">
+  <advance width="882" height="882"/>
+  <outline>
+    <contour>
+      <point x="732.139" y="-431.72" type="line" smooth="yes"/>
+      <point x="755.899" y="-431.72"/>
+      <point x="773.06" y="-419.84"/>
+      <point x="773.06" y="-397.4" type="curve" smooth="yes"/>
+      <point x="773.06" y="69.8398" type="line"/>
+      <point x="725.539" y="69.8398" type="line"/>
+      <point x="725.539" y="-352.52" type="line" smooth="yes"/>
+      <point x="725.539" y="-373.64"/>
+      <point x="720.259" y="-384.2"/>
+      <point x="701.779" y="-384.2" type="curve" smooth="yes"/>
+      <point x="421.939" y="-384.2" type="line" smooth="yes"/>
+      <point x="332.985" y="-384.2"/>
+      <point x="290.142" y="-347.861"/>
+      <point x="281.619" y="-274" type="curve" smooth="yes"/>
+      <point x="272.619" y="-196"/>
+      <point x="292.619" y="-127"/>
+      <point x="330.379" y="-45.6797" type="curve" smooth="yes"/>
+      <point x="337.873" y="-29.54"/>
+      <point x="325.915" y="-11"/>
+      <point x="312.619" y="-11" type="curve" smooth="yes"/>
+      <point x="303.876" y="-11"/>
+      <point x="293.177" y="-15.8047"/>
+      <point x="288.139" y="-25.8799" type="curve" smooth="yes"/>
+      <point x="247.843" y="-106.46"/>
+      <point x="225.619" y="-195"/>
+      <point x="234.099" y="-274" type="curve" smooth="yes"/>
+      <point x="244" y="-366.247"/>
+      <point x="301.366" y="-431.72"/>
+      <point x="421.939" y="-431.72" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinNa" xOffset="0.000715077"/>
+  </outline>
+</glyph>
