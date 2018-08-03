@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinTtU" format="1">
+  <advance width="665" height="665"/>
+  <outline>
+    <contour>
+      <point x="577.079" y="-431.56" type="line" smooth="yes"/>
+      <point x="600.84" y="-431.56"/>
+      <point x="618" y="-420"/>
+      <point x="618" y="-397.24" type="curve" smooth="yes"/>
+      <point x="618" y="220" type="line"/>
+      <point x="570.479" y="220" type="line"/>
+      <point x="570.479" y="-352.359" type="line" smooth="yes"/>
+      <point x="570.479" y="-373.479"/>
+      <point x="565.199" y="-384.04"/>
+      <point x="546.72" y="-384.04" type="curve" smooth="yes"/>
+      <point x="266.88" y="-384.04" type="line" smooth="yes"/>
+      <point x="177.926" y="-384.04"/>
+      <point x="135.082" y="-347.701"/>
+      <point x="126.56" y="-273.84" type="curve" smooth="yes"/>
+      <point x="117.56" y="-195.84"/>
+      <point x="137.56" y="-126.84"/>
+      <point x="175.319" y="-45.5195" type="curve" smooth="yes"/>
+      <point x="182.813" y="-29.3799"/>
+      <point x="170.855" y="-10.8398"/>
+      <point x="157.56" y="-10.8398" type="curve" smooth="yes"/>
+      <point x="148.816" y="-10.8398"/>
+      <point x="138.117" y="-15.6445"/>
+      <point x="133.079" y="-25.7197" type="curve" smooth="yes"/>
+      <point x="92.7832" y="-106.3"/>
+      <point x="70.5596" y="-194.84"/>
+      <point x="79.0391" y="-273.84" type="curve" smooth="yes"/>
+      <point x="88.9404" y="-366.087"/>
+      <point x="146.307" y="-431.56"/>
+      <point x="266.88" y="-431.56" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinTta"/>
+  </outline>
+=======
+<glyph name="sinTtU" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

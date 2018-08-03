@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinMatraEe" format="1">
+  <advance width="1351" height="1351"/>
+  <unicode hex="0DDA"/>
+  <outline>
+    <component base="sinVirama" xOffset="1000"/>
+    <component base="sinMatraE"/>
+  </outline>
+=======
+<glyph name="sinMatraEe" format="2">
+	<unicode hex="0DDA"/>
+	<advance width="592"/>
+	<outline>
+		<component base="sinMatraE"/>
+		<component base="sinVirama" xOffset="700"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-24 06:40:46 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

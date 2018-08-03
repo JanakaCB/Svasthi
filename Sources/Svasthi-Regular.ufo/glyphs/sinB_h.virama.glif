@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinBh.virama" format="1">
+  <advance width="896" height="896"/>
+  <outline>
+    <contour>
+      <point x="616" y="937" type="curve" smooth="yes"/>
+      <point x="616" y="956"/>
+      <point x="621" y="972"/>
+      <point x="641" y="972" type="curve" smooth="yes"/>
+      <point x="657" y="972"/>
+      <point x="665" y="959"/>
+      <point x="665" y="942" type="curve"/>
+      <point x="673" y="936"/>
+      <point x="681" y="934"/>
+      <point x="691" y="934" type="curve" smooth="yes"/>
+      <point x="732" y="934"/>
+      <point x="752" y="958"/>
+      <point x="789" y="958" type="curve" smooth="yes"/>
+      <point x="825" y="958"/>
+      <point x="869" y="930"/>
+      <point x="869" y="867" type="curve" smooth="yes"/>
+      <point x="869" y="789"/>
+      <point x="816" y="726"/>
+      <point x="744" y="726" type="curve" smooth="yes"/>
+      <point x="709" y="726"/>
+      <point x="683" y="738"/>
+      <point x="662" y="753" type="curve"/>
+      <point x="662" y="664" type="line" smooth="yes"/>
+      <point x="662" y="509" type="line"/>
+      <point x="617" y="513" type="line"/>
+      <point x="616" y="590"/>
+      <point x="616" y="654"/>
+      <point x="616" y="707" type="curve" smooth="yes"/>
+      <point x="616" y="783.667"/>
+      <point x="616" y="860.333"/>
+    </contour>
+    <contour>
+      <point x="775" y="910" type="curve" smooth="yes"/>
+      <point x="743" y="910"/>
+      <point x="727" y="890"/>
+      <point x="695" y="890" type="curve" smooth="yes"/>
+      <point x="681" y="890"/>
+      <point x="671" y="894"/>
+      <point x="664" y="898" type="curve"/>
+      <point x="663" y="867"/>
+      <point x="663" y="835"/>
+      <point x="663" y="803" type="curve"/>
+      <point x="678" y="788"/>
+      <point x="703" y="772"/>
+      <point x="738" y="772" type="curve" smooth="yes"/>
+      <point x="788" y="772"/>
+      <point x="818" y="810"/>
+      <point x="818" y="860" type="curve" smooth="yes"/>
+      <point x="818" y="899"/>
+      <point x="797" y="910"/>
+    </contour>
+    <component base="sinBha"/>
+  </outline>
+=======
+<glyph name="sinBh.virama" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

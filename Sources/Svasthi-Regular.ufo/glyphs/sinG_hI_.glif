@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinGhI" format="1">
+  <advance width="825" height="825"/>
+  <outline>
+    <contour>
+      <point x="631" y="504" type="curve" smooth="yes"/>
+      <point x="604.448" y="613"/>
+      <point x="277.375" y="594"/>
+      <point x="257" y="757" type="curve" smooth="yes"/>
+      <point x="241.945" y="877.437"/>
+      <point x="335.681" y="924.479"/>
+      <point x="435" y="924.479" type="curve" smooth="yes"/>
+      <point x="537.667" y="924.479"/>
+      <point x="610.8" y="865.944"/>
+      <point x="610.8" y="789" type="curve" smooth="yes"/>
+      <point x="610.8" y="711.377"/>
+      <point x="563.022" y="679.88"/>
+      <point x="524.8" y="679.88" type="curve" smooth="yes"/>
+      <point x="504.999" y="679.88"/>
+      <point x="486.518" y="683.837"/>
+      <point x="458.8" y="702.319" type="curve" smooth="yes"/>
+      <point x="454.84" y="704.96"/>
+      <point x="450.879" y="707.6"/>
+      <point x="444.279" y="707.6" type="curve" smooth="yes"/>
+      <point x="433.72" y="707.6"/>
+      <point x="425.8" y="701"/>
+      <point x="425.8" y="690.439" type="curve" smooth="yes"/>
+      <point x="425.8" y="683.84"/>
+      <point x="428.363" y="677.183"/>
+      <point x="432.399" y="671.96" type="curve" smooth="yes"/>
+      <point x="454.84" y="642.92"/>
+      <point x="490.479" y="635"/>
+      <point x="524.8" y="635" type="curve" smooth="yes"/>
+      <point x="582.806" y="635"/>
+      <point x="657" y="674.723"/>
+      <point x="657" y="789" type="curve" smooth="yes"/>
+      <point x="657" y="897.702"/>
+      <point x="575.138" y="972"/>
+      <point x="435" y="972" type="curve" smooth="yes"/>
+      <point x="320.981" y="972"/>
+      <point x="190.719" y="912.812"/>
+      <point x="213.439" y="757" type="curve" smooth="yes"/>
+      <point x="245.083" y="540"/>
+      <point x="571" y="575"/>
+      <point x="589" y="476" type="curve" smooth="yes"/>
+      <point x="598.925" y="421.415"/>
+      <point x="636.523" y="481.325"/>
+    </contour>
+    <component base="sinGha"/>
+  </outline>
+=======
+<glyph name="sinGhI" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

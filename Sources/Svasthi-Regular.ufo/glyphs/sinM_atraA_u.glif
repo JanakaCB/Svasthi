@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinMatraAu" format="1">
+  <advance width="1324" height="1324"/>
+  <unicode hex="0DDE"/>
+  <outline>
+    <component base="sinMatraL" xOffset="895"/>
+    <component base="sinMatraE"/>
+  </outline>
+=======
+<glyph name="sinMatraAu" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

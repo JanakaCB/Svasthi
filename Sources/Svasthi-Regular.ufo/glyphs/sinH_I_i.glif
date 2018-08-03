@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinHIi" format="1">
+  <advance width="847" height="847"/>
+  <outline>
+    <contour>
+      <point x="602.359" y="490.801" type="curve" smooth="yes"/>
+      <point x="602.359" y="504"/>
+      <point x="589.16" y="518.521"/>
+      <point x="572" y="518.521" type="curve" smooth="yes"/>
+      <point x="459" y="518.521"/>
+      <point x="333.005" y="604.318"/>
+      <point x="339" y="728" type="curve" smooth="yes"/>
+      <point x="344.076" y="861.194"/>
+      <point x="430.612" y="924.479"/>
+      <point x="525" y="924.479" type="curve" smooth="yes"/>
+      <point x="616.978" y="924.479"/>
+      <point x="696" y="861.78"/>
+      <point x="696" y="774" type="curve" smooth="yes"/>
+      <point x="696" y="707.561"/>
+      <point x="643.76" y="677.359"/>
+      <point x="643.76" y="677.359" type="curve" smooth="yes"/>
+      <point x="643.76" y="677.359"/>
+      <point x="653" y="703.76"/>
+      <point x="653" y="718.279" type="curve" smooth="yes"/>
+      <point x="653" y="765.8"/>
+      <point x="614.72" y="812"/>
+      <point x="554" y="812" type="curve" smooth="yes"/>
+      <point x="495.92" y="812"/>
+      <point x="456.32" y="765.8"/>
+      <point x="456.32" y="716.96" type="curve" smooth="yes"/>
+      <point x="456.32" y="644.359"/>
+      <point x="507.8" y="614"/>
+      <point x="572.48" y="614" type="curve" smooth="yes"/>
+      <point x="646.638" y="614"/>
+      <point x="742.059" y="662.742"/>
+      <point x="740.88" y="780" type="curve" smooth="yes"/>
+      <point x="739.592" y="908.136"/>
+      <point x="646.104" y="972"/>
+      <point x="525" y="972" type="curve" smooth="yes"/>
+      <point x="404.119" y="972"/>
+      <point x="293.208" y="884.609"/>
+      <point x="291.48" y="728" type="curve" smooth="yes"/>
+      <point x="289.592" y="586.85"/>
+      <point x="426" y="471"/>
+      <point x="572" y="471" type="curve" smooth="yes"/>
+      <point x="594.439" y="471"/>
+      <point x="602.359" y="480.24"/>
+    </contour>
+    <contour>
+      <point x="502.521" y="714.319" type="curve" smooth="yes"/>
+      <point x="502.521" y="744.68"/>
+      <point x="523.64" y="765.8"/>
+      <point x="554" y="765.8" type="curve" smooth="yes"/>
+      <point x="587" y="765.8"/>
+      <point x="608.12" y="744.68"/>
+      <point x="608.12" y="714.319" type="curve" smooth="yes"/>
+      <point x="608.12" y="681.319"/>
+      <point x="584.36" y="662.84"/>
+      <point x="554" y="662.84" type="curve" smooth="yes"/>
+      <point x="523.64" y="662.84"/>
+      <point x="502.521" y="682.64"/>
+    </contour>
+    <component base="sinHa"/>
+  </outline>
+=======
+<glyph name="sinHIi" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

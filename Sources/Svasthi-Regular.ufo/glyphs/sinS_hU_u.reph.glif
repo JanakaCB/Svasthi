@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinShUu.reph" format="1">
+  <advance width="809" height="809"/>
+  <outline>
+    <component base="sinReph" xOffset="100"/>
+    <component base="sinShUu"/>
+  </outline>
+</glyph>

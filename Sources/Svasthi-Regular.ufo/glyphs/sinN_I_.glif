@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinNI" format="1">
+  <advance width="882" height="882"/>
+  <outline>
+    <contour>
+      <point x="578.939" y="509" type="curve" smooth="yes"/>
+      <point x="578.939" y="498.439"/>
+      <point x="570.955" y="490.844"/>
+      <point x="549.899" y="489.199" type="curve" smooth="yes"/>
+      <point x="380.939" y="476"/>
+      <point x="281.698" y="598.015"/>
+      <point x="280.379" y="732" type="curve" smooth="yes"/>
+      <point x="279.007" y="871.386"/>
+      <point x="393.921" y="972"/>
+      <point x="507.939" y="972" type="curve" smooth="yes"/>
+      <point x="648.077" y="972"/>
+      <point x="729.939" y="897.702"/>
+      <point x="729.939" y="789" type="curve" smooth="yes"/>
+      <point x="729.939" y="674.723"/>
+      <point x="655.745" y="635"/>
+      <point x="597.739" y="635" type="curve" smooth="yes"/>
+      <point x="563.419" y="635"/>
+      <point x="527.779" y="642.92"/>
+      <point x="505.339" y="671.96" type="curve" smooth="yes"/>
+      <point x="501.303" y="677.183"/>
+      <point x="498.739" y="683.84"/>
+      <point x="498.739" y="690.439" type="curve" smooth="yes"/>
+      <point x="498.739" y="701"/>
+      <point x="506.659" y="707.6"/>
+      <point x="517.219" y="707.6" type="curve" smooth="yes"/>
+      <point x="523.818" y="707.6"/>
+      <point x="527.779" y="704.96"/>
+      <point x="531.739" y="702.319" type="curve" smooth="yes"/>
+      <point x="559.457" y="683.837"/>
+      <point x="577.938" y="679.88"/>
+      <point x="597.739" y="679.88" type="curve" smooth="yes"/>
+      <point x="635.962" y="679.88"/>
+      <point x="683.739" y="711.377"/>
+      <point x="683.739" y="789" type="curve" smooth="yes"/>
+      <point x="683.739" y="865.944"/>
+      <point x="610.606" y="924.479"/>
+      <point x="507.939" y="924.479" type="curve" smooth="yes"/>
+      <point x="408.62" y="924.479"/>
+      <point x="322.654" y="836.071"/>
+      <point x="323.939" y="732" type="curve" smooth="yes"/>
+      <point x="325.208" y="629.269"/>
+      <point x="410.939" y="524"/>
+      <point x="552.899" y="534.199" type="curve" smooth="yes"/>
+      <point x="569.09" y="535.362"/>
+      <point x="578.939" y="525.799"/>
+    </contour>
+    <component base="sinNa" xOffset="0.000715077"/>
+  </outline>
+=======
+<glyph name="sinNI" format="2">
+	<advance width="854"/>
+	<outline>
+		<component base="sinNa"/>
+		<component base="sinMatraI" xOffset="690" yOffset="-85"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-20 05:47:12 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

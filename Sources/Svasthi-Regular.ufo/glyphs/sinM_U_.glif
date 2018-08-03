@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinMU" format="1">
+  <advance width="685" height="685"/>
+  <outline>
+    <contour>
+      <point x="588.139" y="-431.72" type="line" smooth="yes"/>
+      <point x="611.899" y="-431.72"/>
+      <point x="629.06" y="-419.84"/>
+      <point x="629.06" y="-397.4" type="curve" smooth="yes"/>
+      <point x="629.06" y="202.84" type="line"/>
+      <point x="581.539" y="202.84" type="line"/>
+      <point x="581.539" y="-352.52" type="line" smooth="yes"/>
+      <point x="581.539" y="-373.64"/>
+      <point x="576.259" y="-384.2"/>
+      <point x="557.779" y="-384.2" type="curve" smooth="yes"/>
+      <point x="277.939" y="-384.2" type="line" smooth="yes"/>
+      <point x="188.985" y="-384.2"/>
+      <point x="146.142" y="-347.861"/>
+      <point x="137.619" y="-274" type="curve" smooth="yes"/>
+      <point x="128.619" y="-196"/>
+      <point x="148.619" y="-127"/>
+      <point x="186.379" y="-45.6797" type="curve" smooth="yes"/>
+      <point x="193.873" y="-29.54"/>
+      <point x="181.915" y="-11"/>
+      <point x="168.619" y="-11" type="curve" smooth="yes"/>
+      <point x="159.876" y="-11"/>
+      <point x="149.177" y="-15.8048"/>
+      <point x="144.139" y="-25.8799" type="curve" smooth="yes"/>
+      <point x="103.843" y="-106.46"/>
+      <point x="81.6191" y="-195"/>
+      <point x="90.0986" y="-274" type="curve" smooth="yes"/>
+      <point x="100" y="-366.247"/>
+      <point x="157.366" y="-431.72"/>
+      <point x="277.939" y="-431.72" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinMa" xOffset="0.000202532"/>
+  </outline>
+=======
+<glyph name="sinMU" format="2">
+	<advance width="623"/>
+	<outline>
+		<component base="sinMa"/>
+		<component base="sinMatraU" xOffset="600" yOffset="6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-20 05:51:24 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

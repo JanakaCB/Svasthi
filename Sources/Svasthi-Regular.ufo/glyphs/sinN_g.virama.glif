@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinNg.virama" format="1">
+  <advance width="797" height="797"/>
+  <outline>
+    <contour>
+      <point x="770" y="310" type="curve"/>
+      <point x="770.12" y="504.04"/>
+      <point x="661.88" y="665.52"/>
+      <point x="512.72" y="746.04" type="curve"/>
+      <point x="452" y="938.76"/>
+      <point x="320" y="970.44"/>
+      <point x="215.72" y="970.44" type="curve" smooth="yes"/>
+      <point x="161.6" y="970.44"/>
+      <point x="114.08" y="962.52"/>
+      <point x="90.3203" y="962.52" type="curve" smooth="yes"/>
+      <point x="63.9199" y="962.52"/>
+      <point x="52.04" y="948"/>
+      <point x="52.04" y="934.8" type="curve" smooth="yes"/>
+      <point x="52.04" y="922.92"/>
+      <point x="61.2803" y="911.04"/>
+      <point x="78.4404" y="911.04" type="curve" smooth="yes"/>
+      <point x="111.44" y="911.04"/>
+      <point x="131.24" y="887.28"/>
+      <point x="131.24" y="858.24" type="curve" smooth="yes"/>
+      <point x="131.24" y="821.28"/>
+      <point x="118.04" y="804.12"/>
+      <point x="75.7998" y="783" type="curve" smooth="yes"/>
+      <point x="62.5996" y="777.72"/>
+      <point x="56" y="768.48"/>
+      <point x="56" y="757.92" type="curve" smooth="yes"/>
+      <point x="56" y="746.04"/>
+      <point x="65.2402" y="735.48"/>
+      <point x="81.0801" y="735.48" type="curve" smooth="yes"/>
+      <point x="83.7197" y="735.48"/>
+      <point x="87.6797" y="735.48"/>
+      <point x="92.96" y="736.8" type="curve" smooth="yes"/>
+      <point x="145.76" y="755.28"/>
+      <point x="199.88" y="764.52"/>
+      <point x="254" y="764.52" type="curve" smooth="yes"/>
+      <point x="496.88" y="764.52"/>
+      <point x="721.28" y="576.64"/>
+      <point x="721" y="310" type="curve"/>
+      <point x="721" y="141"/>
+      <point x="661" y="45"/>
+      <point x="552" y="45" type="curve" smooth="yes"/>
+      <point x="462" y="45"/>
+      <point x="411" y="118"/>
+      <point x="411" y="224" type="curve" smooth="yes"/>
+      <point x="411" y="236"/>
+      <point x="406" y="247"/>
+      <point x="387" y="247" type="curve" smooth="yes"/>
+      <point x="366" y="247"/>
+      <point x="362" y="236"/>
+      <point x="362" y="224" type="curve" smooth="yes"/>
+      <point x="362" y="118"/>
+      <point x="311" y="45"/>
+      <point x="220" y="45" type="curve" smooth="yes"/>
+      <point x="144" y="45"/>
+      <point x="77" y="112"/>
+      <point x="77" y="230" type="curve" smooth="yes"/>
+      <point x="77" y="306"/>
+      <point x="125" y="366"/>
+      <point x="195" y="370" type="curve"/>
+      <point x="202" y="370" type="line" smooth="yes"/>
+      <point x="224.002" y="370"/>
+      <point x="244.344" y="360"/>
+      <point x="267" y="360" type="curve" smooth="yes"/>
+      <point x="279" y="360"/>
+      <point x="289" y="366"/>
+      <point x="292" y="378" type="curve" smooth="yes"/>
+      <point x="292" y="381"/>
+      <point x="293" y="384"/>
+      <point x="293" y="385" type="curve" smooth="yes"/>
+      <point x="293" y="397"/>
+      <point x="282" y="407"/>
+      <point x="264" y="414" type="curve" smooth="yes"/>
+      <point x="223" y="429"/>
+      <point x="203" y="442"/>
+      <point x="203" y="467" type="curve" smooth="yes"/>
+      <point x="203" y="482"/>
+      <point x="219" y="495"/>
+      <point x="238" y="495" type="curve" smooth="yes"/>
+      <point x="241" y="495"/>
+      <point x="243" y="494"/>
+      <point x="246" y="494" type="curve" smooth="yes"/>
+      <point x="280" y="487"/>
+      <point x="295" y="451"/>
+      <point x="340" y="451" type="curve" smooth="yes"/>
+      <point x="354" y="451"/>
+      <point x="360" y="462"/>
+      <point x="360" y="473" type="curve" smooth="yes"/>
+      <point x="360" y="485"/>
+      <point x="354" y="498"/>
+      <point x="340" y="498" type="curve" smooth="yes"/>
+      <point x="307" y="498"/>
+      <point x="289" y="540"/>
+      <point x="235" y="540" type="curve" smooth="yes"/>
+      <point x="187" y="540"/>
+      <point x="158" y="503"/>
+      <point x="158" y="467" type="curve" smooth="yes"/>
+      <point x="158" y="446"/>
+      <point x="166" y="429"/>
+      <point x="187" y="414" type="curve"/>
+      <point x="183" y="414" type="line" smooth="yes"/>
+      <point x="113" y="414"/>
+      <point x="27" y="343"/>
+      <point x="27" y="230" type="curve" smooth="yes"/>
+      <point x="27" y="76"/>
+      <point x="118" y="-5"/>
+      <point x="220" y="-5" type="curve" smooth="yes"/>
+      <point x="300" y="-5"/>
+      <point x="366" y="42"/>
+      <point x="387" y="108" type="curve"/>
+      <point x="405" y="41"/>
+      <point x="479" y="-5"/>
+      <point x="552" y="-5" type="curve" smooth="yes"/>
+      <point x="698" y="-5"/>
+      <point x="770" y="120"/>
+    </contour>
+    <contour>
+      <point x="251.36" y="812.04" type="curve" smooth="yes"/>
+      <point x="224.96" y="812.04"/>
+      <point x="197.24" y="810.72"/>
+      <point x="169.52" y="806.76" type="curve"/>
+      <point x="177.44" y="817.32"/>
+      <point x="180.08" y="831.84"/>
+      <point x="180.08" y="845.04" type="curve" smooth="yes"/>
+      <point x="180.08" y="867.48"/>
+      <point x="172.16" y="892.56"/>
+      <point x="153.68" y="911.04" type="curve"/>
+      <point x="178.76" y="916.32"/>
+      <point x="202.52" y="920.28"/>
+      <point x="223.64" y="920.28" type="curve" smooth="yes"/>
+      <point x="350.36" y="920.28"/>
+      <point x="426.92" y="837.12"/>
+      <point x="457.28" y="772.44" type="curve"/>
+      <point x="392.6" y="797.52"/>
+      <point x="322.64" y="812.04"/>
+    </contour>
+  </outline>
+=======
+<glyph name="sinNg.virama" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

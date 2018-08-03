@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="space" format="1">
+  <advance width="434" height="434"/>
+  <unicode hex="0020"/>
+=======
+<glyph name="space" format="2">
+	<unicode hex="0020"/>
+	<advance width="300"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-20 05:57:46 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

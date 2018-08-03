@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinBhAa.virama" format="1">
-  <advance width="840" height="840"/>
-  <outline>
-    <component base="sinBha"/>
-  </outline>
-</glyph>

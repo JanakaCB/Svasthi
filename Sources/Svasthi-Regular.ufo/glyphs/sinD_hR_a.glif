@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinDhRa" format="1">
+  <advance width="739" height="739"/>
+  <outline>
+    <contour>
+      <point x="658.299" y="-174" type="curve" smooth="yes"/>
+      <point x="670.268" y="-113"/>
+      <point x="671.299" y="-64"/>
+      <point x="667.299" y="-25" type="curve" smooth="yes"/>
+      <point x="665.05" y="-3.07422"/>
+      <point x="653.986" y="3.86035"/>
+      <point x="638.299" y="0" type="curve" smooth="yes"/>
+      <point x="625.304" y="-3.19824"/>
+      <point x="620.06" y="-16.8477"/>
+      <point x="622.299" y="-37" type="curve" smooth="yes"/>
+      <point x="625.299" y="-64"/>
+      <point x="628.141" y="-111.643"/>
+      <point x="612.299" y="-176" type="curve" smooth="yes"/>
+      <point x="580.299" y="-306"/>
+      <point x="457.265" y="-386.4"/>
+      <point x="319.979" y="-386.4" type="curve" smooth="yes"/>
+      <point x="304.299" y="-386.4"/>
+      <point x="286.299" y="-386"/>
+      <point x="267.299" y="-383" type="curve" smooth="yes"/>
+      <point x="248.299" y="-380"/>
+      <point x="236.534" y="-383.98"/>
+      <point x="233.299" y="-398" type="curve" smooth="yes"/>
+      <point x="230.299" y="-411"/>
+      <point x="235.489" y="-425.104"/>
+      <point x="256.299" y="-430" type="curve" smooth="yes"/>
+      <point x="273.299" y="-434"/>
+      <point x="299.299" y="-434.08"/>
+      <point x="317.339" y="-433.92" type="curve" smooth="yes"/>
+      <point x="482.299" y="-432.452"/>
+      <point x="627.299" y="-332"/>
+    </contour>
+    <component base="sinDha" xOffset="-0.000373558"/>
+  </outline>
+=======
+<glyph name="sinDhRa" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinTtRI" format="1">
+  <advance width="636" height="636"/>
+  <outline>
+    <contour>
+      <point x="573.321" y="-174" type="curve" smooth="yes"/>
+      <point x="585.29" y="-113"/>
+      <point x="586.322" y="-64"/>
+      <point x="582.321" y="-25" type="curve" smooth="yes"/>
+      <point x="580.072" y="-3.07422"/>
+      <point x="569.009" y="3.86035"/>
+      <point x="553.321" y="0" type="curve" smooth="yes"/>
+      <point x="540.326" y="-3.19824"/>
+      <point x="535.082" y="-16.8477"/>
+      <point x="537.321" y="-37" type="curve" smooth="yes"/>
+      <point x="540.321" y="-64"/>
+      <point x="543.163" y="-111.643"/>
+      <point x="527.321" y="-176" type="curve" smooth="yes"/>
+      <point x="495.321" y="-306"/>
+      <point x="372.287" y="-386.4"/>
+      <point x="235.001" y="-386.4" type="curve" smooth="yes"/>
+      <point x="219.321" y="-386.4"/>
+      <point x="201.321" y="-386"/>
+      <point x="182.321" y="-383" type="curve" smooth="yes"/>
+      <point x="163.321" y="-380"/>
+      <point x="151.557" y="-383.98"/>
+      <point x="148.321" y="-398" type="curve" smooth="yes"/>
+      <point x="145.321" y="-411"/>
+      <point x="150.512" y="-425.104"/>
+      <point x="171.321" y="-430" type="curve" smooth="yes"/>
+      <point x="188.321" y="-434"/>
+      <point x="214.321" y="-434.08"/>
+      <point x="232.361" y="-433.92" type="curve" smooth="yes"/>
+      <point x="397.321" y="-432.452"/>
+      <point x="542.32" y="-332"/>
+    </contour>
+    <component base="sinTtI" xOffset="-0.00024947"/>
+  </outline>
+=======
+<glyph name="sinTtRI" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

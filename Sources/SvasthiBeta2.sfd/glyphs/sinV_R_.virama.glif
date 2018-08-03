@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinVR.virama" format="1">
-  <advance width="665" height="665"/>
-  <outline>
-    <component base="sinVa"/>
-  </outline>
-</glyph>

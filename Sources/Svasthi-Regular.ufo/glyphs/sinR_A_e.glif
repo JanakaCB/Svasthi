@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinRAe" format="1">
+  <advance width="842" height="842"/>
+  <outline>
+    <contour>
+      <point x="812.808" y="936" type="curve" smooth="yes"/>
+      <point x="814.581" y="941.146"/>
+      <point x="815.447" y="946.56"/>
+      <point x="815.447" y="950.52" type="curve" smooth="yes"/>
+      <point x="815.447" y="957.12"/>
+      <point x="812.808" y="962.4"/>
+      <point x="807.527" y="966.36" type="curve" smooth="yes"/>
+      <point x="802.247" y="970.32"/>
+      <point x="796.968" y="971.64"/>
+      <point x="791.688" y="971.64" type="curve" smooth="yes"/>
+      <point x="779.808" y="971.64"/>
+      <point x="779.46" y="962.894"/>
+      <point x="770.567" y="949.2" type="curve" smooth="yes"/>
+      <point x="709.152" y="854.636"/>
+      <point x="593.808" y="749"/>
+      <point x="489.808" y="797" type="curve" smooth="yes"/>
+      <point x="448.242" y="816.184"/>
+      <point x="409.257" y="868.792"/>
+      <point x="396.247" y="940.96" type="curve" smooth="yes"/>
+      <point x="393.406" y="956.717"/>
+      <point x="388.66" y="970"/>
+      <point x="369.808" y="970" type="curve" smooth="yes"/>
+      <point x="355.576" y="970"/>
+      <point x="347.794" y="951.856"/>
+      <point x="349.247" y="936.96" type="curve" smooth="yes"/>
+      <point x="359.225" y="834.657"/>
+      <point x="411.271" y="772.521"/>
+      <point x="468.808" y="749" type="curve" smooth="yes"/>
+      <point x="627.808" y="684"/>
+      <point x="784.396" y="853.567"/>
+    </contour>
+    <contour>
+      <point x="610.172" y="287.712" type="curve" smooth="yes"/>
+      <point x="610.172" y="449.781"/>
+      <point x="486.889" y="579.992"/>
+      <point x="319.278" y="579.992" type="curve" smooth="yes"/>
+      <point x="248.634" y="579.992"/>
+      <point x="186.299" y="549.518"/>
+      <point x="140.587" y="507.961" type="curve"/>
+      <point x="188.808" y="592"/>
+      <point x="309.808" y="801"/>
+      <point x="384.891" y="926.287" type="curve" smooth="yes"/>
+      <point x="395.685" y="944.299"/>
+      <point x="396.808" y="963"/>
+      <point x="380.808" y="970" type="curve" smooth="yes"/>
+      <point x="372.455" y="973.654"/>
+      <point x="353.523" y="969.797"/>
+      <point x="342.808" y="952" type="curve" smooth="yes"/>
+      <point x="257.33" y="810.039"/>
+      <point x="158.229" y="642.352"/>
+      <point x="107.808" y="554" type="curve" smooth="yes"/>
+      <point x="57.1523" y="465.237"/>
+      <point x="27" y="394.79"/>
+      <point x="27" y="287.712" type="curve" smooth="yes"/>
+      <point x="27" y="127.028"/>
+      <point x="157.21" y="-3.18066"/>
+      <point x="319.278" y="-3.18066" type="curve" smooth="yes"/>
+      <point x="479.963" y="-3.18066"/>
+      <point x="610.172" y="127.028"/>
+    </contour>
+    <contour>
+      <point x="76.8662" y="287.712" type="curve" smooth="yes"/>
+      <point x="76.8662" y="433.159"/>
+      <point x="187.684" y="531.509"/>
+      <point x="319.278" y="531.509" type="curve" smooth="yes"/>
+      <point x="449.487" y="531.509"/>
+      <point x="560.305" y="419.307"/>
+      <point x="560.305" y="287.712" type="curve" smooth="yes"/>
+      <point x="560.305" y="153.347"/>
+      <point x="455.029" y="46.6855"/>
+      <point x="319.278" y="46.6855" type="curve" smooth="yes"/>
+      <point x="184.913" y="46.6855"/>
+      <point x="76.8662" y="151.962"/>
+    </contour>
+  </outline>
+=======
+<glyph name="sinRAe" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

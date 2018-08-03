@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinVUu" format="1">
+  <advance width="665" height="665"/>
+  <outline>
+    <contour>
+      <point x="625.801" y="-398.72" type="curve" smooth="yes"/>
+      <point x="625.801" y="214.84" type="line"/>
+      <point x="578.281" y="214.84" type="line"/>
+      <point x="578.281" y="-361.76" type="line"/>
+      <point x="560.657" y="-327.885"/>
+      <point x="449.345" y="-246.643"/>
+      <point x="429.001" y="-224" type="curve" smooth="yes"/>
+      <point x="409.69" y="-202.508"/>
+      <point x="402.188" y="-189"/>
+      <point x="390.001" y="-189" type="curve" smooth="yes"/>
+      <point x="378.751" y="-189"/>
+      <point x="370.001" y="-197"/>
+      <point x="370.001" y="-209" type="curve" smooth="yes"/>
+      <point x="370.001" y="-227.938"/>
+      <point x="369.761" y="-254.265"/>
+      <point x="369.761" y="-270.68" type="curve" smooth="yes"/>
+      <point x="369.761" y="-343.28"/>
+      <point x="302.877" y="-384.2"/>
+      <point x="233.561" y="-384.2" type="curve" smooth="yes"/>
+      <point x="170.523" y="-384.2"/>
+      <point x="116.663" y="-348.063"/>
+      <point x="104.001" y="-278" type="curve" smooth="yes"/>
+      <point x="89.001" y="-195"/>
+      <point x="118.101" y="-117.142"/>
+      <point x="163.761" y="-40" type="curve" smooth="yes"/>
+      <point x="165.887" y="-36.4082"/>
+      <point x="166.401" y="-32.0801"/>
+      <point x="166.401" y="-29.4395" type="curve" smooth="yes"/>
+      <point x="166.401" y="-16.2393"/>
+      <point x="153.201" y="-7"/>
+      <point x="140.001" y="-7" type="curve" smooth="yes"/>
+      <point x="133.401" y="-7"/>
+      <point x="125.755" y="-11.1024"/>
+      <point x="121.521" y="-18.8799" type="curve" smooth="yes"/>
+      <point x="80.3115" y="-94.5957"/>
+      <point x="44.1342" y="-190.981"/>
+      <point x="56.4805" y="-278" type="curve" smooth="yes"/>
+      <point x="69.1045" y="-366.977"/>
+      <point x="140.662" y="-431.72"/>
+      <point x="233.561" y="-431.72" type="curve" smooth="yes"/>
+      <point x="349.753" y="-431.72"/>
+      <point x="406.721" y="-353.84"/>
+      <point x="406.721" y="-289.16" type="curve" smooth="yes"/>
+      <point x="406.721" y="-283.88"/>
+      <point x="406.721" y="-274.64"/>
+      <point x="405.401" y="-268.04" type="curve"/>
+      <point x="429.826" y="-294.44"/>
+      <point x="515.866" y="-344.861"/>
+      <point x="554.521" y="-409.28" type="curve" smooth="yes"/>
+      <point x="566.401" y="-429.08"/>
+      <point x="583.561" y="-431.72"/>
+      <point x="595.441" y="-431.72" type="curve" smooth="yes"/>
+      <point x="613.921" y="-431.72"/>
+      <point x="625.801" y="-422.48"/>
+    </contour>
+    <component base="sinVa" xOffset="0.000307727"/>
+  </outline>
+=======
+<glyph name="sinVUu" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

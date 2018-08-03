@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinUu" format="1">
-  <advance width="1066" height="1066"/>
-  <unicode hex="0D8C"/>
-  <outline>
-    <component base="sinU" xOffset="0.000305435"/>
-    <component base="sinMatraL" xOffset="637"/>
-  </outline>
-</glyph>

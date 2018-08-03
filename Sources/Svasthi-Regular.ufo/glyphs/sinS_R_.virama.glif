@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinSR.virama" format="1">
+  <advance width="857" height="857"/>
+  <outline>
+    <component base="sinS.virama"/>
+    <component base="sinRakar" xOffset="266"/>
+  </outline>
+=======
+<glyph name="sinSR.virama" format="2">
+	<advance width="266"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:28:50 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>

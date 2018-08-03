@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<glyph name="sinK.virama" format="1">
+  <advance width="919" height="919"/>
+  <outline>
+    <contour>
+      <point x="639" y="937" type="curve" smooth="yes"/>
+      <point x="639" y="956"/>
+      <point x="644" y="972"/>
+      <point x="664" y="972" type="curve" smooth="yes"/>
+      <point x="680" y="972"/>
+      <point x="688" y="959"/>
+      <point x="688" y="942" type="curve"/>
+      <point x="696" y="936"/>
+      <point x="704" y="934"/>
+      <point x="714" y="934" type="curve" smooth="yes"/>
+      <point x="755" y="934"/>
+      <point x="775" y="958"/>
+      <point x="812" y="958" type="curve" smooth="yes"/>
+      <point x="848" y="958"/>
+      <point x="892" y="930"/>
+      <point x="892" y="867" type="curve" smooth="yes"/>
+      <point x="892" y="789"/>
+      <point x="839" y="726"/>
+      <point x="767" y="726" type="curve" smooth="yes"/>
+      <point x="732" y="726"/>
+      <point x="706" y="738"/>
+      <point x="685" y="753" type="curve"/>
+      <point x="685" y="664" type="line" smooth="yes"/>
+      <point x="685" y="479" type="line"/>
+      <point x="640" y="483" type="line"/>
+      <point x="639" y="571.907"/>
+      <point x="639" y="645.804"/>
+      <point x="639" y="707" type="curve" smooth="yes"/>
+      <point x="639" y="783.667"/>
+      <point x="639" y="860.333"/>
+    </contour>
+    <contour>
+      <point x="798" y="910" type="curve" smooth="yes"/>
+      <point x="766" y="910"/>
+      <point x="750" y="890"/>
+      <point x="718" y="890" type="curve" smooth="yes"/>
+      <point x="704" y="890"/>
+      <point x="694" y="894"/>
+      <point x="687" y="898" type="curve"/>
+      <point x="686" y="867"/>
+      <point x="686" y="835"/>
+      <point x="686" y="803" type="curve"/>
+      <point x="701" y="788"/>
+      <point x="726" y="772"/>
+      <point x="761" y="772" type="curve" smooth="yes"/>
+      <point x="811" y="772"/>
+      <point x="841" y="810"/>
+      <point x="841" y="860" type="curve" smooth="yes"/>
+      <point x="841" y="899"/>
+      <point x="820" y="910"/>
+    </contour>
+    <component base="sinKa"/>
+  </outline>
+=======
+<glyph name="sinK.virama" format="2">
+	<advance width="799"/>
+	<outline>
+		<component base="sinKa"/>
+		<component base="sinVirama" xOffset="809"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-20 05:23:15 +0000</string>
+		</dict>
+	</lib>
+>>>>>>> origin/master
+</glyph>
